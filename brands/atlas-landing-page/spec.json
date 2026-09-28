@@ -1,0 +1,24 @@
+{
+  "id": "atlas-landing-page",
+  "name": "Atlas Showcase",
+  "repo": "atlas-landing-page",
+  "tagline": "Public Commercial Presence & High-Conversion Showcase",
+  "mark_type": "combination",
+  "technique": "negative-space, optical-illusion",
+  "geometry": "prism, chevron",
+  "industry": "marketing-commercial",
+  "colors": {
+    "primary": "#3B82F6",
+    "secondary": "#0B132B",
+    "accent": "#60A5FA",
+    "dark": "#0B132B",
+    "light": "#F8FAFC"
+  },
+  "rationale": "Conversion-focused ascendant prism projecting Atlas's core identity forward into the corporate market.",
+  "files": {
+    "symbol": "brands/atlas-landing-page/atlas-landing-page-symbol.svg",
+    "monochrome": "brands/atlas-landing-page/atlas-landing-page-monochrome.svg",
+    "lockup": "brands/atlas-landing-page/atlas-landing-page-lockup.svg"
+  },
+  "audit_passed": true
+}

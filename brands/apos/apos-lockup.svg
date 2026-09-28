@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 128" width="512" height="128">
+  <title>APOS Lockup</title>
+  <g transform="translate(12, 8) scale(0.4375)">
+    <title>APOS Digital Twin Mark</title>
+  <!-- Architectural Outer Footprint -->
+  <path d="M128 32 L220 84 L220 188 L128 240 L36 188 L36 84 Z" fill="#0F2B48"/>
+  <!-- Top Roof Cutaway -->
+  <path d="M128 48 L204 92 L128 136 L52 92 Z" fill="#1E3E62"/>
+  <!-- Structural Partition Wall Left -->
+  <path d="M60 108 L116 140 L116 208 L60 176 Z" fill="#00E5FF"/>
+  <!-- Structural Partition Wall Right -->
+  <path d="M140 140 L196 108 L196 176 L140 208 Z" fill="#00B4D8"/>
+  <!-- Electrical Core Axis -->
+  <path d="M128 148 L128 224" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <!-- Vectorized Name Bar Representation -->
+  <g transform="translate(148, 52)">
+    <rect x="0" y="0" width="180" height="24" rx="4" fill="#0B192C"/>
+    <rect x="0" y="32" width="96" height="6" rx="2" fill="#00E5FF"/>
+  </g>
+</svg>

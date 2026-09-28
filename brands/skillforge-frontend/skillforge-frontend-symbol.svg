@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>SkillForge Frontend Mark</title>
+  <!-- Anvil Face Plate -->
+  <path d="M40 76 L216 76 L196 112 L60 112 Z" fill="#0F172A"/>
+  <!-- Left Code Bracket Wing -->
+  <path d="M60 112 L100 112 L84 156 L44 156 Z" fill="#06B6D4"/>
+  <!-- Right Code Bracket Wing -->
+  <path d="M156 112 L196 112 L212 156 L172 156 Z" fill="#8B5CF6"/>
+  <!-- Central Anvil Waist & Base -->
+  <path d="M96 128 L160 128 L168 180 L88 180 Z" fill="#0F172A"/>
+  <path d="M72 188 L184 188 L196 220 L60 220 Z" fill="#0F172A"/>
+  <!-- Core Spark Pixel -->
+  <path d="M120 140 L136 140 L136 156 L120 156 Z" fill="#06B6D4"/>
+</svg>

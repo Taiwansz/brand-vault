@@ -1,0 +1,24 @@
+{
+  "id": "thaspect",
+  "name": "ThAspect",
+  "repo": "ThAspect",
+  "tagline": "Contemporary Streetwear & Urban Architectural Tailoring",
+  "mark_type": "letterform",
+  "technique": "isometric-projection, monoline-grid, brutalism",
+  "geometry": "asymmetric-triangle, chamfer",
+  "industry": "fashion-streetwear",
+  "colors": {
+    "primary": "#0A0A0A",
+    "secondary": "#F4F1EA",
+    "accent": "#FF5722",
+    "dark": "#0A0A0A",
+    "light": "#F4F1EA"
+  },
+  "rationale": "Brutalist letter A constructed with heavy textile warp/weft cuts and an industrial high-visibility accent.",
+  "files": {
+    "symbol": "brands/thaspect/thaspect-symbol.svg",
+    "monochrome": "brands/thaspect/thaspect-monochrome.svg",
+    "lockup": "brands/thaspect/thaspect-lockup.svg"
+  },
+  "audit_passed": true
+}

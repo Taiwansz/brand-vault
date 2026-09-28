@@ -1,0 +1,24 @@
+{
+  "id": "atlas",
+  "name": "Atlas",
+  "repo": "atlas",
+  "tagline": "Enterprise Human Capital & Workforce Management Suite",
+  "mark_type": "abstract",
+  "technique": "dynamic-rotation, chiral-symmetry",
+  "geometry": "circle, orbit-rings",
+  "industry": "enterprise-saas",
+  "colors": {
+    "primary": "#2563EB",
+    "secondary": "#0A192F",
+    "accent": "#E2E8F0",
+    "dark": "#0A192F",
+    "light": "#EFF6FF"
+  },
+  "rationale": "Modernized celestial sphere of Atlas engineered as dynamic titanium orbital rings holding a central organizational core.",
+  "files": {
+    "symbol": "brands/atlas/atlas-symbol.svg",
+    "monochrome": "brands/atlas/atlas-monochrome.svg",
+    "lockup": "brands/atlas/atlas-lockup.svg"
+  },
+  "audit_passed": true
+}

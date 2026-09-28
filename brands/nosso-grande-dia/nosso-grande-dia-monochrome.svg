@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Nosso Grande Dia Monochrome</title>
+  <path d="M128 28 C180 28 220 72 220 128 C220 184 180 228 128 228 C76 228 36 184 36 128 C36 72 76 28 128 28 Z" fill="#000000"/>
+  <circle cx="128" cy="128" r="88" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  <path d="M76 168 L76 96 L108 144 L128 112 L148 144 L180 96 L180 168" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

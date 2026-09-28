@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 128" width="512" height="128">
+  <title>Marduk TS Lockup</title>
+  <g transform="translate(12, 8) scale(0.4375)">
+    <title>Marduk TS Deliberation Mark</title>
+  <!-- Background Deep Slate Core -->
+  <path d="M128 32 L224 128 L128 224 L32 128 Z" fill="#0F172A"/>
+  <!-- Divergent Ascending Pyramid (Violet) -->
+  <path d="M128 48 L204 128 L52 128 Z" fill="#C084FC"/>
+  <!-- Convergent Descending Pyramid (Lapis Azure) -->
+  <path d="M52 128 L204 128 L128 208 Z" fill="#1E3A5F"/>
+  <!-- Core Cognitive Iris Diamond -->
+  <path d="M128 104 L152 128 L128 152 L104 128 Z" fill="#38BDF8"/>
+  <circle cx="128" cy="128" r="8" fill="#FFFFFF"/>
+  </g>
+  <!-- Vectorized Name Bar Representation -->
+  <g transform="translate(148, 52)">
+    <rect x="0" y="0" width="180" height="24" rx="4" fill="#0F172A"/>
+    <rect x="0" y="32" width="96" height="6" rx="2" fill="#C084FC"/>
+  </g>
+</svg>

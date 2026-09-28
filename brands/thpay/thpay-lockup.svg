@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 128" width="512" height="128">
+  <title>ThPay Lockup</title>
+  <g transform="translate(12, 8) scale(0.4375)">
+    <title>ThPay Vault Mark</title>
+  <!-- Upper Ascending Hexagon Flow -->
+  <path d="M128 32 L216 80 L216 136 L176 114 L176 96 L128 70 L80 96 L80 120 L40 100 L40 80 Z" fill="#00A86B"/>
+  <!-- Lower Vault Return Flow -->
+  <path d="M128 224 L40 176 L40 120 L80 142 L80 160 L128 186 L176 160 L176 136 L216 156 L216 176 Z" fill="#0B0F19"/>
+  <!-- Central Currency Delta Diamond -->
+  <path d="M128 92 L164 128 L128 164 L92 128 Z" fill="#10B981"/>
+  </g>
+  <!-- Vectorized Name Bar Representation -->
+  <g transform="translate(148, 52)">
+    <rect x="0" y="0" width="180" height="24" rx="4" fill="#0B0F19"/>
+    <rect x="0" y="32" width="96" height="6" rx="2" fill="#00A86B"/>
+  </g>
+</svg>

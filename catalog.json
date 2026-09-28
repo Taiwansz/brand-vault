@@ -1,0 +1,362 @@
+[
+  {
+    "id": "thsyr",
+    "name": "ThSyr",
+    "repo": "ThSyr",
+    "tagline": "Cognitive Copilot & Autonomous JARVIS Runtime",
+    "mark_type": "letterform",
+    "technique": "geometric-construction, negative-space, chiral-symmetry",
+    "geometry": "triangle, chevron, diamond",
+    "industry": "artificial-intelligence",
+    "colors": {
+      "primary": "#E63946",
+      "secondary": "#121316",
+      "accent": "#D4AF37",
+      "dark": "#0B0C0E",
+      "light": "#F8F9FA"
+    },
+    "rationale": "Sagittal chevron arrowhead fused with an autonomous neural core. High forward momentum with strict angular discipline at 45 degrees.",
+    "files": {
+      "symbol": "brands/thsyr/thsyr-symbol.svg",
+      "monochrome": "brands/thsyr/thsyr-monochrome.svg",
+      "lockup": "brands/thsyr/thsyr-lockup.svg"
+    },
+    "audit_passed": true
+  },
+  {
+    "id": "thaspect",
+    "name": "ThAspect",
+    "repo": "ThAspect",
+    "tagline": "Contemporary Streetwear & Urban Architectural Tailoring",
+    "mark_type": "letterform",
+    "technique": "isometric-projection, monoline-grid, brutalism",
+    "geometry": "asymmetric-triangle, chamfer",
+    "industry": "fashion-streetwear",
+    "colors": {
+      "primary": "#0A0A0A",
+      "secondary": "#F4F1EA",
+      "accent": "#FF5722",
+      "dark": "#0A0A0A",
+      "light": "#F4F1EA"
+    },
+    "rationale": "Brutalist letter A constructed with heavy textile warp/weft cuts and an industrial high-visibility accent.",
+    "files": {
+      "symbol": "brands/thaspect/thaspect-symbol.svg",
+      "monochrome": "brands/thaspect/thaspect-monochrome.svg",
+      "lockup": "brands/thaspect/thaspect-lockup.svg"
+    },
+    "audit_passed": true
+  },
+  {
+    "id": "thpay",
+    "name": "ThPay",
+    "repo": "ThPay",
+    "tagline": "Corporate Continuous Payroll & Tax Compliance Engine",
+    "mark_type": "combination",
+    "technique": "duality-interlock, continuous-line, mathematical-balance",
+    "geometry": "hexagon, infinity-loop",
+    "industry": "fintech-payroll",
+    "colors": {
+      "primary": "#00A86B",
+      "secondary": "#0B0F19",
+      "accent": "#10B981",
+      "dark": "#0B0F19",
+      "light": "#F0FDF4"
+    },
+    "rationale": "Dual hexagonal interlock representing fluid cash flow and immutable regulatory vault security.",
+    "files": {
+      "symbol": "brands/thpay/thpay-symbol.svg",
+      "monochrome": "brands/thpay/thpay-monochrome.svg",
+      "lockup": "brands/thpay/thpay-lockup.svg"
+    },
+    "audit_passed": true
+  },
+  {
+    "id": "skillforge-frontend",
+    "name": "SkillForge Frontend",
+    "repo": "SkillForge-Frontend",
+    "tagline": "Autonomous AI Frontend & Design System Specialist",
+    "mark_type": "combination",
+    "technique": "modular-system, bracket-code, geometric-construction",
+    "geometry": "anvil, rectangle-grid, chevron",
+    "industry": "developer-tools",
+    "colors": {
+      "primary": "#06B6D4",
+      "secondary": "#0F172A",
+      "accent": "#8B5CF6",
+      "dark": "#0F172A",
+      "light": "#F8FAFC"
+    },
+    "rationale": "Stylized digital anvil composed of modular UI bento grid cells, forging code brackets into visual components.",
+    "files": {
+      "symbol": "brands/skillforge-frontend/skillforge-frontend-symbol.svg",
+      "monochrome": "brands/skillforge-frontend/skillforge-frontend-monochrome.svg",
+      "lockup": "brands/skillforge-frontend/skillforge-frontend-lockup.svg"
+    },
+    "audit_passed": true
+  },
+  {
+    "id": "cs-vault-2026",
+    "name": "CS-Vault 2026",
+    "repo": "CS-Vault-2026",
+    "tagline": "Obsidian Academic Vault & Deep Computer Science Core",
+    "mark_type": "emblem",
+    "technique": "tessellation, isometric-projection, modular-system",
+    "geometry": "hexagon, cube",
+    "industry": "education-knowledge",
+    "colors": {
+      "primary": "#F59E0B",
+      "secondary": "#1E293B",
+      "accent": "#475569",
+      "dark": "#0F172A",
+      "light": "#FFFBEB"
+    },
+    "rationale": "Isometric crystalline vault cube housed within an algorithmic knowledge hexagon, symbolising atomic synthesis.",
+    "files": {
+      "symbol": "brands/cs-vault-2026/cs-vault-2026-symbol.svg",
+      "monochrome": "brands/cs-vault-2026/cs-vault-2026-monochrome.svg",
+      "lockup": "brands/cs-vault-2026/cs-vault-2026-lockup.svg"
+    },
+    "audit_passed": true
+  },
+  {
+    "id": "apos",
+    "name": "APOS",
+    "repo": "apos",
+    "tagline": "Apartment Operating System & Residential Digital Twin",
+    "mark_type": "abstract",
+    "technique": "geometric-construction, isometric-projection",
+    "geometry": "isometric-floorplan, portal",
+    "industry": "proptech-infrastructure",
+    "colors": {
+      "primary": "#00E5FF",
+      "secondary": "#0F2B48",
+      "accent": "#94A3B8",
+      "dark": "#0B192C",
+      "light": "#F0F9FF"
+    },
+    "rationale": "Digital twin floorplan cube with isometric structural walls and an illuminated architectural doorway portal.",
+    "files": {
+      "symbol": "brands/apos/apos-symbol.svg",
+      "monochrome": "brands/apos/apos-monochrome.svg",
+      "lockup": "brands/apos/apos-lockup.svg"
+    },
+    "audit_passed": true
+  },
+  {
+    "id": "atlas",
+    "name": "Atlas",
+    "repo": "atlas",
+    "tagline": "Enterprise Human Capital & Workforce Management Suite",
+    "mark_type": "abstract",
+    "technique": "dynamic-rotation, chiral-symmetry",
+    "geometry": "circle, orbit-rings",
+    "industry": "enterprise-saas",
+    "colors": {
+      "primary": "#2563EB",
+      "secondary": "#0A192F",
+      "accent": "#E2E8F0",
+      "dark": "#0A192F",
+      "light": "#EFF6FF"
+    },
+    "rationale": "Modernized celestial sphere of Atlas engineered as dynamic titanium orbital rings holding a central organizational core.",
+    "files": {
+      "symbol": "brands/atlas/atlas-symbol.svg",
+      "monochrome": "brands/atlas/atlas-monochrome.svg",
+      "lockup": "brands/atlas/atlas-lockup.svg"
+    },
+    "audit_passed": true
+  },
+  {
+    "id": "atlas-hr-data-engine",
+    "name": "Atlas HR Data Engine",
+    "repo": "atlas-hr-data-engine",
+    "tagline": "High-Throughput Distributed HR ETL & Analytics Engine",
+    "mark_type": "abstract",
+    "technique": "dynamic-rotation, modular-system",
+    "geometry": "turbine, circle",
+    "industry": "data-infrastructure",
+    "colors": {
+      "primary": "#14B8A6",
+      "secondary": "#082F49",
+      "accent": "#38BDF8",
+      "dark": "#082F49",
+      "light": "#F0FDFA"
+    },
+    "rationale": "High-velocity data turbine blade channeling distributed employee records into an immutable analytical core.",
+    "files": {
+      "symbol": "brands/atlas-hr-data-engine/atlas-hr-data-engine-symbol.svg",
+      "monochrome": "brands/atlas-hr-data-engine/atlas-hr-data-engine-monochrome.svg",
+      "lockup": "brands/atlas-hr-data-engine/atlas-hr-data-engine-lockup.svg"
+    },
+    "audit_passed": true
+  },
+  {
+    "id": "atlas-landing-page",
+    "name": "Atlas Showcase",
+    "repo": "atlas-landing-page",
+    "tagline": "Public Commercial Presence & High-Conversion Showcase",
+    "mark_type": "combination",
+    "technique": "negative-space, optical-illusion",
+    "geometry": "prism, chevron",
+    "industry": "marketing-commercial",
+    "colors": {
+      "primary": "#3B82F6",
+      "secondary": "#0B132B",
+      "accent": "#60A5FA",
+      "dark": "#0B132B",
+      "light": "#F8FAFC"
+    },
+    "rationale": "Conversion-focused ascendant prism projecting Atlas's core identity forward into the corporate market.",
+    "files": {
+      "symbol": "brands/atlas-landing-page/atlas-landing-page-symbol.svg",
+      "monochrome": "brands/atlas-landing-page/atlas-landing-page-monochrome.svg",
+      "lockup": "brands/atlas-landing-page/atlas-landing-page-lockup.svg"
+    },
+    "audit_passed": true
+  },
+  {
+    "id": "feriados-brasil",
+    "name": "Feriados Brasil",
+    "repo": "feriados-brasil",
+    "tagline": "National Brazilian Public Holidays & Business Days Engine",
+    "mark_type": "pictorial",
+    "technique": "negative-space, geometric-construction",
+    "geometry": "rhombus, calendar-tile",
+    "industry": "api-data",
+    "colors": {
+      "primary": "#009C3B",
+      "secondary": "#FFDF00",
+      "accent": "#002776",
+      "dark": "#004D1A",
+      "light": "#F0FDF4"
+    },
+    "rationale": "Calendar grid tile with Brazil's canonical central rhombus carved out, carrying the Southern Cross star.",
+    "files": {
+      "symbol": "brands/feriados-brasil/feriados-brasil-symbol.svg",
+      "monochrome": "brands/feriados-brasil/feriados-brasil-monochrome.svg",
+      "lockup": "brands/feriados-brasil/feriados-brasil-lockup.svg"
+    },
+    "audit_passed": true
+  },
+  {
+    "id": "jornada-gestao-excursoes",
+    "name": "Jornada Excursoes",
+    "repo": "jornada-gestao-excursoes",
+    "tagline": "Caravan, Tour & Church Excursion Management Platform",
+    "mark_type": "pictorial",
+    "technique": "continuous-line, geometric-construction",
+    "geometry": "circle, compass-arrow, ribbon",
+    "industry": "travel-mobility",
+    "colors": {
+      "primary": "#1E3A8A",
+      "secondary": "#F97316",
+      "accent": "#38BDF8",
+      "dark": "#1E3A8A",
+      "light": "#FFF7ED"
+    },
+    "rationale": "Unbroken roadway looping into a guiding compass needle, evoking joyful fellowship and secure travel.",
+    "files": {
+      "symbol": "brands/jornada-gestao-excursoes/jornada-gestao-excursoes-symbol.svg",
+      "monochrome": "brands/jornada-gestao-excursoes/jornada-gestao-excursoes-monochrome.svg",
+      "lockup": "brands/jornada-gestao-excursoes/jornada-gestao-excursoes-lockup.svg"
+    },
+    "audit_passed": true
+  },
+  {
+    "id": "matheus-sousa-linkedin",
+    "name": "Matheus Sousa",
+    "repo": "matheus-sousa-linkedin",
+    "tagline": "Senior Software Engineer & Systems Architect Personal Identity",
+    "mark_type": "lettermark",
+    "technique": "chiral-symmetry, geometric-construction, brutalism",
+    "geometry": "chamfer, monogram",
+    "industry": "professional-portfolio",
+    "colors": {
+      "primary": "#111827",
+      "secondary": "#9CA3AF",
+      "accent": "#C5A880",
+      "dark": "#111827",
+      "light": "#F9FAFB"
+    },
+    "rationale": "Architectural monogram MS with 45-degree chamfers and structural pillars reflecting engineering rigor.",
+    "files": {
+      "symbol": "brands/matheus-sousa-linkedin/matheus-sousa-linkedin-symbol.svg",
+      "monochrome": "brands/matheus-sousa-linkedin/matheus-sousa-linkedin-monochrome.svg",
+      "lockup": "brands/matheus-sousa-linkedin/matheus-sousa-linkedin-lockup.svg"
+    },
+    "audit_passed": true
+  },
+  {
+    "id": "nosso-grande-dia",
+    "name": "Nosso Grande Dia",
+    "repo": "nosso-grande-dia",
+    "tagline": "Matheus & Virginia Matrimonial Ecosystem (Canticos 8:7)",
+    "mark_type": "lettermark",
+    "technique": "continuous-line, geometric-construction",
+    "geometry": "oval, laurel-knot",
+    "industry": "matrimonial-event",
+    "colors": {
+      "primary": "#0C1B33",
+      "secondary": "#6B1724",
+      "accent": "#D4AF37",
+      "dark": "#0C1B33",
+      "light": "#FDFBF7"
+    },
+    "rationale": "Official CCB wedding crest interweaving initials M and V into an unbroken covenant knot with antique gold laurels.",
+    "files": {
+      "symbol": "brands/nosso-grande-dia/nosso-grande-dia-symbol.svg",
+      "monochrome": "brands/nosso-grande-dia/nosso-grande-dia-monochrome.svg",
+      "lockup": "brands/nosso-grande-dia/nosso-grande-dia-lockup.svg"
+    },
+    "audit_passed": true
+  },
+  {
+    "id": "receitas-andre-empada",
+    "name": "Receitas Andre da Empada",
+    "repo": "receitas",
+    "tagline": "Culinary Technical Formulation & Baking Cost Engineering",
+    "mark_type": "emblem",
+    "technique": "dynamic-rotation, modular-system, geometric-construction",
+    "geometry": "circle, radial-crimp",
+    "industry": "food-gastronomy",
+    "colors": {
+      "primary": "#D97706",
+      "secondary": "#9A3412",
+      "accent": "#FFFBEB",
+      "dark": "#78350F",
+      "light": "#FFFBEB"
+    },
+    "rationale": "Radial crimped golden crust seal honoring artisanal empada baking with engineering cost precision.",
+    "files": {
+      "symbol": "brands/receitas-andre-empada/receitas-andre-empada-symbol.svg",
+      "monochrome": "brands/receitas-andre-empada/receitas-andre-empada-monochrome.svg",
+      "lockup": "brands/receitas-andre-empada/receitas-andre-empada-lockup.svg"
+    },
+    "audit_passed": true
+  },
+  {
+    "id": "marduk-ts",
+    "name": "Marduk TS",
+    "repo": "shiny-carnival-fork",
+    "tagline": "Deliberative Goal Synthesis & Tiered Cognitive Memory Architecture",
+    "mark_type": "abstract",
+    "technique": "duality-interlock, geometric-construction",
+    "geometry": "double-pyramid, iris",
+    "industry": "cognitive-systems",
+    "colors": {
+      "primary": "#C084FC",
+      "secondary": "#1E3A5F",
+      "accent": "#38BDF8",
+      "dark": "#0F172A",
+      "light": "#FAF5FF"
+    },
+    "rationale": "Twin intersecting deliberation pyramids representing divergent hypothesis synthesis and convergent decision crystallization.",
+    "files": {
+      "symbol": "brands/marduk-ts/marduk-ts-symbol.svg",
+      "monochrome": "brands/marduk-ts/marduk-ts-monochrome.svg",
+      "lockup": "brands/marduk-ts/marduk-ts-lockup.svg"
+    },
+    "audit_passed": true
+  }
+]

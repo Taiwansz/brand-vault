@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Atlas Landing Mark</title>
+  <!-- Foundation Dark Vault -->
+  <path d="M48 208 L128 48 L208 208 L168 208 L128 128 L88 208 Z" fill="#0B132B"/>
+  <!-- Radiant Facet Left -->
+  <path d="M128 48 L128 128 L88 208 L48 208 Z" fill="#1D4ED8"/>
+  <!-- Radiant Facet Right -->
+  <path d="M128 48 L208 208 L168 208 L128 128 Z" fill="#3B82F6"/>
+  <!-- Ascension Peak Spark -->
+  <path d="M128 88 L144 116 L128 128 L112 116 Z" fill="#FFFFFF"/>
+</svg>

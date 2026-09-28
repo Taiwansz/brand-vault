@@ -1,0 +1,24 @@
+{
+  "id": "jornada-gestao-excursoes",
+  "name": "Jornada Excursoes",
+  "repo": "jornada-gestao-excursoes",
+  "tagline": "Caravan, Tour & Church Excursion Management Platform",
+  "mark_type": "pictorial",
+  "technique": "continuous-line, geometric-construction",
+  "geometry": "circle, compass-arrow, ribbon",
+  "industry": "travel-mobility",
+  "colors": {
+    "primary": "#1E3A8A",
+    "secondary": "#F97316",
+    "accent": "#38BDF8",
+    "dark": "#1E3A8A",
+    "light": "#FFF7ED"
+  },
+  "rationale": "Unbroken roadway looping into a guiding compass needle, evoking joyful fellowship and secure travel.",
+  "files": {
+    "symbol": "brands/jornada-gestao-excursoes/jornada-gestao-excursoes-symbol.svg",
+    "monochrome": "brands/jornada-gestao-excursoes/jornada-gestao-excursoes-monochrome.svg",
+    "lockup": "brands/jornada-gestao-excursoes/jornada-gestao-excursoes-lockup.svg"
+  },
+  "audit_passed": true
+}

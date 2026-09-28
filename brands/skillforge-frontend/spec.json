@@ -1,0 +1,24 @@
+{
+  "id": "skillforge-frontend",
+  "name": "SkillForge Frontend",
+  "repo": "SkillForge-Frontend",
+  "tagline": "Autonomous AI Frontend & Design System Specialist",
+  "mark_type": "combination",
+  "technique": "modular-system, bracket-code, geometric-construction",
+  "geometry": "anvil, rectangle-grid, chevron",
+  "industry": "developer-tools",
+  "colors": {
+    "primary": "#06B6D4",
+    "secondary": "#0F172A",
+    "accent": "#8B5CF6",
+    "dark": "#0F172A",
+    "light": "#F8FAFC"
+  },
+  "rationale": "Stylized digital anvil composed of modular UI bento grid cells, forging code brackets into visual components.",
+  "files": {
+    "symbol": "brands/skillforge-frontend/skillforge-frontend-symbol.svg",
+    "monochrome": "brands/skillforge-frontend/skillforge-frontend-monochrome.svg",
+    "lockup": "brands/skillforge-frontend/skillforge-frontend-lockup.svg"
+  },
+  "audit_passed": true
+}

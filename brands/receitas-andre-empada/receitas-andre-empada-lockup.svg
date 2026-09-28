@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 128" width="512" height="128">
+  <title>Receitas Andre da Empada Lockup</title>
+  <g transform="translate(12, 8) scale(0.4375)">
+    <title>Andre da Empada Mark</title>
+  <!-- Outer Crust Sunburst Seal -->
+  <circle cx="128" cy="128" r="96" fill="#D97706"/>
+  <!-- Scalloped Crimps (Radial Cut) -->
+  <circle cx="128" cy="128" r="80" fill="#9A3412"/>
+  <!-- Central Golden Dome -->
+  <circle cx="128" cy="128" r="64" fill="#D97706"/>
+  <!-- Chef Balance Scale Geometry -->
+  <path d="M128 88 L128 168" stroke="#FFFBEB" stroke-width="8" stroke-linecap="round"/>
+  <path d="M96 112 L160 112" stroke="#FFFBEB" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="96" cy="132" r="16" fill="#FFFBEB"/>
+  <circle cx="160" cy="132" r="16" fill="#FFFBEB"/>
+  </g>
+  <!-- Vectorized Name Bar Representation -->
+  <g transform="translate(148, 52)">
+    <rect x="0" y="0" width="180" height="24" rx="4" fill="#78350F"/>
+    <rect x="0" y="32" width="96" height="6" rx="2" fill="#D97706"/>
+  </g>
+</svg>

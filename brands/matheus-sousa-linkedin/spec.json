@@ -1,0 +1,24 @@
+{
+  "id": "matheus-sousa-linkedin",
+  "name": "Matheus Sousa",
+  "repo": "matheus-sousa-linkedin",
+  "tagline": "Senior Software Engineer & Systems Architect Personal Identity",
+  "mark_type": "lettermark",
+  "technique": "chiral-symmetry, geometric-construction, brutalism",
+  "geometry": "chamfer, monogram",
+  "industry": "professional-portfolio",
+  "colors": {
+    "primary": "#111827",
+    "secondary": "#9CA3AF",
+    "accent": "#C5A880",
+    "dark": "#111827",
+    "light": "#F9FAFB"
+  },
+  "rationale": "Architectural monogram MS with 45-degree chamfers and structural pillars reflecting engineering rigor.",
+  "files": {
+    "symbol": "brands/matheus-sousa-linkedin/matheus-sousa-linkedin-symbol.svg",
+    "monochrome": "brands/matheus-sousa-linkedin/matheus-sousa-linkedin-monochrome.svg",
+    "lockup": "brands/matheus-sousa-linkedin/matheus-sousa-linkedin-lockup.svg"
+  },
+  "audit_passed": true
+}

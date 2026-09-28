@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Feriados Brasil Mark</title>
+  <!-- Calendar Base Plate -->
+  <rect x="40" y="48" width="176" height="168" rx="24" fill="#009C3B"/>
+  <!-- Header Bar -->
+  <path d="M40 48 L216 48 L216 88 L40 88 Z" fill="#004D1A"/>
+  <!-- Twin Ring Binders -->
+  <rect x="76" y="32" width="16" height="32" rx="8" fill="#FFDF00"/>
+  <rect x="164" y="32" width="16" height="32" rx="8" fill="#FFDF00"/>
+  <!-- Canonical Brasil Rhombus -->
+  <path d="M128 104 L184 148 L128 192 L72 148 Z" fill="#FFDF00"/>
+  <!-- Central Southern Star -->
+  <path d="M128 132 L132 144 L144 148 L132 152 L128 164 L124 152 L112 148 L124 144 Z" fill="#002776"/>
+</svg>

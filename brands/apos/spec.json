@@ -1,0 +1,24 @@
+{
+  "id": "apos",
+  "name": "APOS",
+  "repo": "apos",
+  "tagline": "Apartment Operating System & Residential Digital Twin",
+  "mark_type": "abstract",
+  "technique": "geometric-construction, isometric-projection",
+  "geometry": "isometric-floorplan, portal",
+  "industry": "proptech-infrastructure",
+  "colors": {
+    "primary": "#00E5FF",
+    "secondary": "#0F2B48",
+    "accent": "#94A3B8",
+    "dark": "#0B192C",
+    "light": "#F0F9FF"
+  },
+  "rationale": "Digital twin floorplan cube with isometric structural walls and an illuminated architectural doorway portal.",
+  "files": {
+    "symbol": "brands/apos/apos-symbol.svg",
+    "monochrome": "brands/apos/apos-monochrome.svg",
+    "lockup": "brands/apos/apos-lockup.svg"
+  },
+  "audit_passed": true
+}

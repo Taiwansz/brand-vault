@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>ThAspect Brand Mark</title>
+  <!-- Main Structural A -->
+  <path d="M52 220 L108 36 L152 36 L104 220 Z" fill="#0A0A0A"/>
+  <path d="M136 36 L204 220 L160 220 L128 128 L104 128 L116 88 L148 88 Z" fill="#0A0A0A"/>
+  <!-- Industrial Cross Lintel -->
+  <path d="M76 148 L180 148 L172 176 L68 176 Z" fill="#FF5722"/>
+  <!-- Tension Anchor -->
+  <path d="M152 36 L180 36 L136 176 L108 176 Z" fill="#0A0A0A" opacity="0.15"/>
+</svg>

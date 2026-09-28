@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 128" width="512" height="128">
+  <title>ThAspect Lockup</title>
+  <g transform="translate(12, 8) scale(0.4375)">
+    <title>ThAspect Brand Mark</title>
+  <!-- Main Structural A -->
+  <path d="M52 220 L108 36 L152 36 L104 220 Z" fill="#0A0A0A"/>
+  <path d="M136 36 L204 220 L160 220 L128 128 L104 128 L116 88 L148 88 Z" fill="#0A0A0A"/>
+  <!-- Industrial Cross Lintel -->
+  <path d="M76 148 L180 148 L172 176 L68 176 Z" fill="#FF5722"/>
+  <!-- Tension Anchor -->
+  <path d="M152 36 L180 36 L136 176 L108 176 Z" fill="#0A0A0A" opacity="0.15"/>
+  </g>
+  <!-- Vectorized Name Bar Representation -->
+  <g transform="translate(148, 52)">
+    <rect x="0" y="0" width="180" height="24" rx="4" fill="#0A0A0A"/>
+    <rect x="0" y="32" width="96" height="6" rx="2" fill="#0A0A0A"/>
+  </g>
+</svg>

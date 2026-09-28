@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 128" width="512" height="128">
+  <title>Atlas HR Data Engine Lockup</title>
+  <g transform="translate(12, 8) scale(0.4375)">
+    <title>Atlas HR Data Engine Mark</title>
+  <circle cx="128" cy="128" r="96" fill="#082F49"/>
+  <!-- 4-Phase Turbine Blades -->
+  <path d="M128 32 L156 96 L128 96 Z" fill="#14B8A6"/>
+  <path d="M224 128 L160 156 L160 128 Z" fill="#38BDF8"/>
+  <path d="M128 224 L100 160 L128 160 Z" fill="#14B8A6"/>
+  <path d="M32 128 L96 100 L96 128 Z" fill="#38BDF8"/>
+  <!-- Central Hub -->
+  <circle cx="128" cy="128" r="32" fill="#0F766E"/>
+  <circle cx="128" cy="128" r="14" fill="#FFFFFF"/>
+  </g>
+  <!-- Vectorized Name Bar Representation -->
+  <g transform="translate(148, 52)">
+    <rect x="0" y="0" width="180" height="24" rx="4" fill="#082F49"/>
+    <rect x="0" y="32" width="96" height="6" rx="2" fill="#14B8A6"/>
+  </g>
+</svg>

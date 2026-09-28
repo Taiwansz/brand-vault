@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Brand Vault // Repositorios de Matheus Sousa</title>
+  <style>
+    :root {
+      --bg: #0B0D13;
+      --card-bg: #141721;
+      --border: #23293D;
+      --text: #E2E8F0;
+      --text-muted: #94A3B8;
+      --accent: #E63946;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      padding: 40px 24px;
+      line-height: 1.5;
+    }
+    header {
+      max-width: 1280px;
+      margin: 0 auto 40px auto;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 24px;
+    }
+    h1 { font-size: 2.2rem; font-weight: 800; letter-spacing: -0.5px; color: #FFF; }
+    .subtitle { color: var(--text-muted); margin-top: 8px; font-size: 1.1rem; }
+    .stats-bar {
+      display: flex; gap: 24px; margin-top: 16px; font-size: 0.9rem; color: #38BDF8;
+    }
+    .grid {
+      max-width: 1280px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+      gap: 24px;
+    }
+    .brand-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.2s, border-color 0.2s;
+    }
+    .brand-card:hover {
+      transform: translateY(-4px);
+      border-color: #38BDF8;
+    }
+    .card-header {
+      display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px;
+    }
+    .card-header h3 { font-size: 1.3rem; color: #FFF; }
+    .badge {
+      background: #1E293B; color: #38BDF8; padding: 3px 8px; border-radius: 6px; font-size: 0.75rem; text-transform: uppercase; font-weight: 600;
+    }
+    .tagline { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 16px; min-height: 40px; }
+    .symbol-container {
+      background: #07090E;
+      border: 1px solid #1E2230;
+      border-radius: 8px;
+      padding: 24px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      margin-bottom: 16px;
+    }
+    .logo-preview { width: 96px; height: 96px; object-fit: contain; }
+    .logo-preview.mono { filter: invert(1); }
+    .size-ladder {
+      display: flex; align-items: center; gap: 12px; margin-bottom: 16px; padding: 10px 12px; background: #0E1118; border-radius: 6px;
+    }
+    .size-label { font-size: 0.75rem; color: var(--text-muted); }
+    .color-palette { display: flex; gap: 8px; margin-bottom: 12px; }
+    .color-chip { width: 24px; height: 24px; border-radius: 4px; border: 1px solid rgba(255,255,255,0.2); }
+    .rationale { font-size: 0.85rem; color: #CBD5E1; margin-bottom: 8px; }
+    .tech { font-size: 0.78rem; color: var(--text-muted); }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Brand Vault // Ecossistema de Identidades</h1>
+    <p class="subtitle">Identidades visuais geometricamente auditadas para cada repositorio de Matheus Sousa (Taiwansz).</p>
+    <div class="stats-bar">
+      <span>15 Marcas Ativas</span>
+      <span>100% SVG Vetorial Puro</span>
+      <span>Resolucao a 16px Validada</span>
+      <span>Zero Cliches de IA</span>
+    </div>
+  </header>
+  <main class="grid">
+    
+        <div class="brand-card">
+          <div class="card-header">
+            <h3>ThSyr</h3>
+            <span class="badge">letterform</span>
+          </div>
+          <p class="tagline">Cognitive Copilot & Autonomous JARVIS Runtime</p>
+          <div class="symbol-container">
+            <img src="brands/thsyr/thsyr-symbol.svg" alt="ThSyr Symbol" class="logo-preview" />
+            <img src="brands/thsyr/thsyr-monochrome.svg" alt="ThSyr Monochrome" class="logo-preview mono" />
+          </div>
+          <div class="size-ladder">
+            <span class="size-label">16px:</span>
+            <img src="brands/thsyr/thsyr-symbol.svg" style="width:16px;height:16px;" />
+            <span class="size-label">32px:</span>
+            <img src="brands/thsyr/thsyr-symbol.svg" style="width:32px;height:32px;" />
+            <span class="size-label">64px:</span>
+            <img src="brands/thsyr/thsyr-symbol.svg" style="width:64px;height:64px;" />
+          </div>
+          <div class="meta-section">
+            <div class="color-palette">
+              <span class="color-chip" style="background:#E63946" title="Primary: #E63946"></span>
+              <span class="color-chip" style="background:#121316" title="Secondary: #121316"></span>
+              <span class="color-chip" style="background:#D4AF37" title="Accent: #D4AF37"></span>
+            </div>
+            <p class="rationale"><strong>Conceito:</strong> Sagittal chevron arrowhead fused with an autonomous neural core. High forward momentum with strict angular discipline at 45 degrees.</p>
+            <p class="tech"><strong>Tecnicas:</strong> geometric-construction, negative-space, chiral-symmetry</p>
+          </div>
+        </div>
+        
+        <div class="brand-card">
+          <div class="card-header">
+            <h3>ThAspect</h3>
+            <span class="badge">letterform</span>
+          </div>
+          <p class="tagline">Contemporary Streetwear & Urban Architectural Tailoring</p>
+          <div class="symbol-container">
+            <img src="brands/thaspect/thaspect-symbol.svg" alt="ThAspect Symbol" class="logo-preview" />
+            <img src="brands/thaspect/thaspect-monochrome.svg" alt="ThAspect Monochrome" class="logo-preview mono" />
+          </div>
+          <div class="size-ladder">
+            <span class="size-label">16px:</span>
+            <img src="brands/thaspect/thaspect-symbol.svg" style="width:16px;height:16px;" />
+            <span class="size-label">32px:</span>
+            <img src="brands/thaspect/thaspect-symbol.svg" style="width:32px;height:32px;" />
+            <span class="size-label">64px:</span>
+            <img src="brands/thaspect/thaspect-symbol.svg" style="width:64px;height:64px;" />
+          </div>
+          <div class="meta-section">
+            <div class="color-palette">
+              <span class="color-chip" style="background:#0A0A0A" title="Primary: #0A0A0A"></span>
+              <span class="color-chip" style="background:#F4F1EA" title="Secondary: #F4F1EA"></span>
+              <span class="color-chip" style="background:#FF5722" title="Accent: #FF5722"></span>
+            </div>
+            <p class="rationale"><strong>Conceito:</strong> Brutalist letter A constructed with heavy textile warp/weft cuts and an industrial high-visibility accent.</p>
+            <p class="tech"><strong>Tecnicas:</strong> isometric-projection, monoline-grid, brutalism</p>
+          </div>
+        </div>
+        
+        <div class="brand-card">
+          <div class="card-header">
+            <h3>ThPay</h3>
+            <span class="badge">combination</span>
+          </div>
+          <p class="tagline">Corporate Continuous Payroll & Tax Compliance Engine</p>
+          <div class="symbol-container">
+            <img src="brands/thpay/thpay-symbol.svg" alt="ThPay Symbol" class="logo-preview" />
+            <img src="brands/thpay/thpay-monochrome.svg" alt="ThPay Monochrome" class="logo-preview mono" />
+          </div>
+          <div class="size-ladder">
+            <span class="size-label">16px:</span>
+            <img src="brands/thpay/thpay-symbol.svg" style="width:16px;height:16px;" />
+            <span class="size-label">32px:</span>
+            <img src="brands/thpay/thpay-symbol.svg" style="width:32px;height:32px;" />
+            <span class="size-label">64px:</span>
+            <img src="brands/thpay/thpay-symbol.svg" style="width:64px;height:64px;" />
+          </div>
+          <div class="meta-section">
+            <div class="color-palette">
+              <span class="color-chip" style="background:#00A86B" title="Primary: #00A86B"></span>
+              <span class="color-chip" style="background:#0B0F19" title="Secondary: #0B0F19"></span>
+              <span class="color-chip" style="background:#10B981" title="Accent: #10B981"></span>
+            </div>
+            <p class="rationale"><strong>Conceito:</strong> Dual hexagonal interlock representing fluid cash flow and immutable regulatory vault security.</p>
+            <p class="tech"><strong>Tecnicas:</strong> duality-interlock, continuous-line, mathematical-balance</p>
+          </div>
+        </div>
+        
+        <div class="brand-card">
+          <div class="card-header">
+            <h3>SkillForge Frontend</h3>
+            <span class="badge">combination</span>
+          </div>
+          <p class="tagline">Autonomous AI Frontend & Design System Specialist</p>
+          <div class="symbol-container">
+            <img src="brands/skillforge-frontend/skillforge-frontend-symbol.svg" alt="SkillForge Frontend Symbol" class="logo-preview" />
+            <img src="brands/skillforge-frontend/skillforge-frontend-monochrome.svg" alt="SkillForge Frontend Monochrome" class="logo-preview mono" />
+          </div>
+          <div class="size-ladder">
+            <span class="size-label">16px:</span>
+            <img src="brands/skillforge-frontend/skillforge-frontend-symbol.svg" style="width:16px;height:16px;" />
+            <span class="size-label">32px:</span>
+            <img src="brands/skillforge-frontend/skillforge-frontend-symbol.svg" style="width:32px;height:32px;" />
+            <span class="size-label">64px:</span>
+            <img src="brands/skillforge-frontend/skillforge-frontend-symbol.svg" style="width:64px;height:64px;" />
+          </div>
+          <div class="meta-section">
+            <div class="color-palette">
+              <span class="color-chip" style="background:#06B6D4" title="Primary: #06B6D4"></span>
+              <span class="color-chip" style="background:#0F172A" title="Secondary: #0F172A"></span>
+              <span class="color-chip" style="background:#8B5CF6" title="Accent: #8B5CF6"></span>
+            </div>
+            <p class="rationale"><strong>Conceito:</strong> Stylized digital anvil composed of modular UI bento grid cells, forging code brackets into visual components.</p>
+            <p class="tech"><strong>Tecnicas:</strong> modular-system, bracket-code, geometric-construction</p>
+          </div>
+        </div>
+        
+        <div class="brand-card">
+          <div class="card-header">
+            <h3>CS-Vault 2026</h3>
+            <span class="badge">emblem</span>
+          </div>
+          <p class="tagline">Obsidian Academic Vault & Deep Computer Science Core</p>
+          <div class="symbol-container">
+            <img src="brands/cs-vault-2026/cs-vault-2026-symbol.svg" alt="CS-Vault 2026 Symbol" class="logo-preview" />
+            <img src="brands/cs-vault-2026/cs-vault-2026-monochrome.svg" alt="CS-Vault 2026 Monochrome" class="logo-preview mono" />
+          </div>
+          <div class="size-ladder">
+            <span class="size-label">16px:</span>
+            <img src="brands/cs-vault-2026/cs-vault-2026-symbol.svg" style="width:16px;height:16px;" />
+            <span class="size-label">32px:</span>
+            <img src="brands/cs-vault-2026/cs-vault-2026-symbol.svg" style="width:32px;height:32px;" />
+            <span class="size-label">64px:</span>
+            <img src="brands/cs-vault-2026/cs-vault-2026-symbol.svg" style="width:64px;height:64px;" />
+          </div>
+          <div class="meta-section">
+            <div class="color-palette">
+              <span class="color-chip" style="background:#F59E0B" title="Primary: #F59E0B"></span>
+              <span class="color-chip" style="background:#1E293B" title="Secondary: #1E293B"></span>
+              <span class="color-chip" style="background:#475569" title="Accent: #475569"></span>
+            </div>
+            <p class="rationale"><strong>Conceito:</strong> Isometric crystalline vault cube housed within an algorithmic knowledge hexagon, symbolising atomic synthesis.</p>
+            <p class="tech"><strong>Tecnicas:</strong> tessellation, isometric-projection, modular-system</p>
+          </div>
+        </div>
+        
+        <div class="brand-card">
+          <div class="card-header">
+            <h3>APOS</h3>
+            <span class="badge">abstract</span>
+          </div>
+          <p class="tagline">Apartment Operating System & Residential Digital Twin</p>
+          <div class="symbol-container">
+            <img src="brands/apos/apos-symbol.svg" alt="APOS Symbol" class="logo-preview" />
+            <img src="brands/apos/apos-monochrome.svg" alt="APOS Monochrome" class="logo-preview mono" />
+          </div>
+          <div class="size-ladder">
+            <span class="size-label">16px:</span>
+            <img src="brands/apos/apos-symbol.svg" style="width:16px;height:16px;" />
+            <span class="size-label">32px:</span>
+            <img src="brands/apos/apos-symbol.svg" style="width:32px;height:32px;" />
+            <span class="size-label">64px:</span>
+            <img src="brands/apos/apos-symbol.svg" style="width:64px;height:64px;" />
+          </div>
+          <div class="meta-section">
+            <div class="color-palette">
+              <span class="color-chip" style="background:#00E5FF" title="Primary: #00E5FF"></span>
+              <span class="color-chip" style="background:#0F2B48" title="Secondary: #0F2B48"></span>
+              <span class="color-chip" style="background:#94A3B8" title="Accent: #94A3B8"></span>
+            </div>
+            <p class="rationale"><strong>Conceito:</strong> Digital twin floorplan cube with isometric structural walls and an illuminated architectural doorway portal.</p>
+            <p class="tech"><strong>Tecnicas:</strong> geometric-construction, isometric-projection</p>
+          </div>
+        </div>
+        
+        <div class="brand-card">
+          <div class="card-header">
+            <h3>Atlas</h3>
+            <span class="badge">abstract</span>
+          </div>
+          <p class="tagline">Enterprise Human Capital & Workforce Management Suite</p>
+          <div class="symbol-container">
+            <img src="brands/atlas/atlas-symbol.svg" alt="Atlas Symbol" class="logo-preview" />
+            <img src="brands/atlas/atlas-monochrome.svg" alt="Atlas Monochrome" class="logo-preview mono" />
+          </div>
+          <div class="size-ladder">
+            <span class="size-label">16px:</span>
+            <img src="brands/atlas/atlas-symbol.svg" style="width:16px;height:16px;" />
+            <span class="size-label">32px:</span>
+            <img src="brands/atlas/atlas-symbol.svg" style="width:32px;height:32px;" />
+            <span class="size-label">64px:</span>
+            <img src="brands/atlas/atlas-symbol.svg" style="width:64px;height:64px;" />
+          </div>
+          <div class="meta-section">
+            <div class="color-palette">
+              <span class="color-chip" style="background:#2563EB" title="Primary: #2563EB"></span>
+              <span class="color-chip" style="background:#0A192F" title="Secondary: #0A192F"></span>
+              <span class="color-chip" style="background:#E2E8F0" title="Accent: #E2E8F0"></span>
+            </div>
+            <p class="rationale"><strong>Conceito:</strong> Modernized celestial sphere of Atlas engineered as dynamic titanium orbital rings holding a central organizational core.</p>
+            <p class="tech"><strong>Tecnicas:</strong> dynamic-rotation, chiral-symmetry</p>
+          </div>
+        </div>
+        
+        <div class="brand-card">
+          <div class="card-header">
+            <h3>Atlas HR Data Engine</h3>
+            <span class="badge">abstract</span>
+          </div>
+          <p class="tagline">High-Throughput Distributed HR ETL & Analytics Engine</p>
+          <div class="symbol-container">
+            <img src="brands/atlas-hr-data-engine/atlas-hr-data-engine-symbol.svg" alt="Atlas HR Data Engine Symbol" class="logo-preview" />
+            <img src="brands/atlas-hr-data-engine/atlas-hr-data-engine-monochrome.svg" alt="Atlas HR Data Engine Monochrome" class="logo-preview mono" />
+          </div>
+          <div class="size-ladder">
+            <span class="size-label">16px:</span>
+            <img src="brands/atlas-hr-data-engine/atlas-hr-data-engine-symbol.svg" style="width:16px;height:16px;" />
+            <span class="size-label">32px:</span>
+            <img src="brands/atlas-hr-data-engine/atlas-hr-data-engine-symbol.svg" style="width:32px;height:32px;" />
+            <span class="size-label">64px:</span>
+            <img src="brands/atlas-hr-data-engine/atlas-hr-data-engine-symbol.svg" style="width:64px;height:64px;" />
+          </div>
+          <div class="meta-section">
+            <div class="color-palette">
+              <span class="color-chip" style="background:#14B8A6" title="Primary: #14B8A6"></span>
+              <span class="color-chip" style="background:#082F49" title="Secondary: #082F49"></span>
+              <span class="color-chip" style="background:#38BDF8" title="Accent: #38BDF8"></span>
+            </div>
+            <p class="rationale"><strong>Conceito:</strong> High-velocity data turbine blade channeling distributed employee records into an immutable analytical core.</p>
+            <p class="tech"><strong>Tecnicas:</strong> dynamic-rotation, modular-system</p>
+          </div>
+        </div>
+        
+        <div class="brand-card">
+          <div class="card-header">
+            <h3>Atlas Showcase</h3>
+            <span class="badge">combination</span>
+          </div>
+          <p class="tagline">Public Commercial Presence & High-Conversion Showcase</p>
+          <div class="symbol-container">
+            <img src="brands/atlas-landing-page/atlas-landing-page-symbol.svg" alt="Atlas Showcase Symbol" class="logo-preview" />
+            <img src="brands/atlas-landing-page/atlas-landing-page-monochrome.svg" alt="Atlas Showcase Monochrome" class="logo-preview mono" />
+          </div>
+          <div class="size-ladder">
+            <span class="size-label">16px:</span>
+            <img src="brands/atlas-landing-page/atlas-landing-page-symbol.svg" style="width:16px;height:16px;" />
+            <span class="size-label">32px:</span>
+            <img src="brands/atlas-landing-page/atlas-landing-page-symbol.svg" style="width:32px;height:32px;" />
+            <span class="size-label">64px:</span>
+            <img src="brands/atlas-landing-page/atlas-landing-page-symbol.svg" style="width:64px;height:64px;" />
+          </div>
+          <div class="meta-section">
+            <div class="color-palette">
+              <span class="color-chip" style="background:#3B82F6" title="Primary: #3B82F6"></span>
+              <span class="color-chip" style="background:#0B132B" title="Secondary: #0B132B"></span>
+              <span class="color-chip" style="background:#60A5FA" title="Accent: #60A5FA"></span>
+            </div>
+            <p class="rationale"><strong>Conceito:</strong> Conversion-focused ascendant prism projecting Atlas's core identity forward into the corporate market.</p>
+            <p class="tech"><strong>Tecnicas:</strong> negative-space, optical-illusion</p>
+          </div>
+        </div>
+        
+        <div class="brand-card">
+          <div class="card-header">
+            <h3>Feriados Brasil</h3>
+            <span class="badge">pictorial</span>
+          </div>
+          <p class="tagline">National Brazilian Public Holidays & Business Days Engine</p>
+          <div class="symbol-container">
+            <img src="brands/feriados-brasil/feriados-brasil-symbol.svg" alt="Feriados Brasil Symbol" class="logo-preview" />
+            <img src="brands/feriados-brasil/feriados-brasil-monochrome.svg" alt="Feriados Brasil Monochrome" class="logo-preview mono" />
+          </div>
+          <div class="size-ladder">
+            <span class="size-label">16px:</span>
+            <img src="brands/feriados-brasil/feriados-brasil-symbol.svg" style="width:16px;height:16px;" />
+            <span class="size-label">32px:</span>
+            <img src="brands/feriados-brasil/feriados-brasil-symbol.svg" style="width:32px;height:32px;" />
+            <span class="size-label">64px:</span>
+            <img src="brands/feriados-brasil/feriados-brasil-symbol.svg" style="width:64px;height:64px;" />
+          </div>
+          <div class="meta-section">
+            <div class="color-palette">
+              <span class="color-chip" style="background:#009C3B" title="Primary: #009C3B"></span>
+              <span class="color-chip" style="background:#FFDF00" title="Secondary: #FFDF00"></span>
+              <span class="color-chip" style="background:#002776" title="Accent: #002776"></span>
+            </div>
+            <p class="rationale"><strong>Conceito:</strong> Calendar grid tile with Brazil's canonical central rhombus carved out, carrying the Southern Cross star.</p>
+            <p class="tech"><strong>Tecnicas:</strong> negative-space, geometric-construction</p>
+          </div>
+        </div>
+        
+        <div class="brand-card">
+          <div class="card-header">
+            <h3>Jornada Excursoes</h3>
+            <span class="badge">pictorial</span>
+          </div>
+          <p class="tagline">Caravan, Tour & Church Excursion Management Platform</p>
+          <div class="symbol-container">
+            <img src="brands/jornada-gestao-excursoes/jornada-gestao-excursoes-symbol.svg" alt="Jornada Excursoes Symbol" class="logo-preview" />
+            <img src="brands/jornada-gestao-excursoes/jornada-gestao-excursoes-monochrome.svg" alt="Jornada Excursoes Monochrome" class="logo-preview mono" />
+          </div>
+          <div class="size-ladder">
+            <span class="size-label">16px:</span>
+            <img src="brands/jornada-gestao-excursoes/jornada-gestao-excursoes-symbol.svg" style="width:16px;height:16px;" />
+            <span class="size-label">32px:</span>
+            <img src="brands/jornada-gestao-excursoes/jornada-gestao-excursoes-symbol.svg" style="width:32px;height:32px;" />
+            <span class="size-label">64px:</span>
+            <img src="brands/jornada-gestao-excursoes/jornada-gestao-excursoes-symbol.svg" style="width:64px;height:64px;" />
+          </div>
+          <div class="meta-section">
+            <div class="color-palette">
+              <span class="color-chip" style="background:#1E3A8A" title="Primary: #1E3A8A"></span>
+              <span class="color-chip" style="background:#F97316" title="Secondary: #F97316"></span>
+              <span class="color-chip" style="background:#38BDF8" title="Accent: #38BDF8"></span>
+            </div>
+            <p class="rationale"><strong>Conceito:</strong> Unbroken roadway looping into a guiding compass needle, evoking joyful fellowship and secure travel.</p>
+            <p class="tech"><strong>Tecnicas:</strong> continuous-line, geometric-construction</p>
+          </div>
+        </div>
+        
+        <div class="brand-card">
+          <div class="card-header">
+            <h3>Matheus Sousa</h3>
+            <span class="badge">lettermark</span>
+          </div>
+          <p class="tagline">Senior Software Engineer & Systems Architect Personal Identity</p>
+          <div class="symbol-container">
+            <img src="brands/matheus-sousa-linkedin/matheus-sousa-linkedin-symbol.svg" alt="Matheus Sousa Symbol" class="logo-preview" />
+            <img src="brands/matheus-sousa-linkedin/matheus-sousa-linkedin-monochrome.svg" alt="Matheus Sousa Monochrome" class="logo-preview mono" />
+          </div>
+          <div class="size-ladder">
+            <span class="size-label">16px:</span>
+            <img src="brands/matheus-sousa-linkedin/matheus-sousa-linkedin-symbol.svg" style="width:16px;height:16px;" />
+            <span class="size-label">32px:</span>
+            <img src="brands/matheus-sousa-linkedin/matheus-sousa-linkedin-symbol.svg" style="width:32px;height:32px;" />
+            <span class="size-label">64px:</span>
+            <img src="brands/matheus-sousa-linkedin/matheus-sousa-linkedin-symbol.svg" style="width:64px;height:64px;" />
+          </div>
+          <div class="meta-section">
+            <div class="color-palette">
+              <span class="color-chip" style="background:#111827" title="Primary: #111827"></span>
+              <span class="color-chip" style="background:#9CA3AF" title="Secondary: #9CA3AF"></span>
+              <span class="color-chip" style="background:#C5A880" title="Accent: #C5A880"></span>
+            </div>
+            <p class="rationale"><strong>Conceito:</strong> Architectural monogram MS with 45-degree chamfers and structural pillars reflecting engineering rigor.</p>
+            <p class="tech"><strong>Tecnicas:</strong> chiral-symmetry, geometric-construction, brutalism</p>
+          </div>
+        </div>
+        
+        <div class="brand-card">
+          <div class="card-header">
+            <h3>Nosso Grande Dia</h3>
+            <span class="badge">lettermark</span>
+          </div>
+          <p class="tagline">Matheus & Virginia Matrimonial Ecosystem (Canticos 8:7)</p>
+          <div class="symbol-container">
+            <img src="brands/nosso-grande-dia/nosso-grande-dia-symbol.svg" alt="Nosso Grande Dia Symbol" class="logo-preview" />
+            <img src="brands/nosso-grande-dia/nosso-grande-dia-monochrome.svg" alt="Nosso Grande Dia Monochrome" class="logo-preview mono" />
+          </div>
+          <div class="size-ladder">
+            <span class="size-label">16px:</span>
+            <img src="brands/nosso-grande-dia/nosso-grande-dia-symbol.svg" style="width:16px;height:16px;" />
+            <span class="size-label">32px:</span>
+            <img src="brands/nosso-grande-dia/nosso-grande-dia-symbol.svg" style="width:32px;height:32px;" />
+            <span class="size-label">64px:</span>
+            <img src="brands/nosso-grande-dia/nosso-grande-dia-symbol.svg" style="width:64px;height:64px;" />
+          </div>
+          <div class="meta-section">
+            <div class="color-palette">
+              <span class="color-chip" style="background:#0C1B33" title="Primary: #0C1B33"></span>
+              <span class="color-chip" style="background:#6B1724" title="Secondary: #6B1724"></span>
+              <span class="color-chip" style="background:#D4AF37" title="Accent: #D4AF37"></span>
+            </div>
+            <p class="rationale"><strong>Conceito:</strong> Official CCB wedding crest interweaving initials M and V into an unbroken covenant knot with antique gold laurels.</p>
+            <p class="tech"><strong>Tecnicas:</strong> continuous-line, geometric-construction</p>
+          </div>
+        </div>
+        
+        <div class="brand-card">
+          <div class="card-header">
+            <h3>Receitas Andre da Empada</h3>
+            <span class="badge">emblem</span>
+          </div>
+          <p class="tagline">Culinary Technical Formulation & Baking Cost Engineering</p>
+          <div class="symbol-container">
+            <img src="brands/receitas-andre-empada/receitas-andre-empada-symbol.svg" alt="Receitas Andre da Empada Symbol" class="logo-preview" />
+            <img src="brands/receitas-andre-empada/receitas-andre-empada-monochrome.svg" alt="Receitas Andre da Empada Monochrome" class="logo-preview mono" />
+          </div>
+          <div class="size-ladder">
+            <span class="size-label">16px:</span>
+            <img src="brands/receitas-andre-empada/receitas-andre-empada-symbol.svg" style="width:16px;height:16px;" />
+            <span class="size-label">32px:</span>
+            <img src="brands/receitas-andre-empada/receitas-andre-empada-symbol.svg" style="width:32px;height:32px;" />
+            <span class="size-label">64px:</span>
+            <img src="brands/receitas-andre-empada/receitas-andre-empada-symbol.svg" style="width:64px;height:64px;" />
+          </div>
+          <div class="meta-section">
+            <div class="color-palette">
+              <span class="color-chip" style="background:#D97706" title="Primary: #D97706"></span>
+              <span class="color-chip" style="background:#9A3412" title="Secondary: #9A3412"></span>
+              <span class="color-chip" style="background:#FFFBEB" title="Accent: #FFFBEB"></span>
+            </div>
+            <p class="rationale"><strong>Conceito:</strong> Radial crimped golden crust seal honoring artisanal empada baking with engineering cost precision.</p>
+            <p class="tech"><strong>Tecnicas:</strong> dynamic-rotation, modular-system, geometric-construction</p>
+          </div>
+        </div>
+        
+        <div class="brand-card">
+          <div class="card-header">
+            <h3>Marduk TS</h3>
+            <span class="badge">abstract</span>
+          </div>
+          <p class="tagline">Deliberative Goal Synthesis & Tiered Cognitive Memory Architecture</p>
+          <div class="symbol-container">
+            <img src="brands/marduk-ts/marduk-ts-symbol.svg" alt="Marduk TS Symbol" class="logo-preview" />
+            <img src="brands/marduk-ts/marduk-ts-monochrome.svg" alt="Marduk TS Monochrome" class="logo-preview mono" />
+          </div>
+          <div class="size-ladder">
+            <span class="size-label">16px:</span>
+            <img src="brands/marduk-ts/marduk-ts-symbol.svg" style="width:16px;height:16px;" />
+            <span class="size-label">32px:</span>
+            <img src="brands/marduk-ts/marduk-ts-symbol.svg" style="width:32px;height:32px;" />
+            <span class="size-label">64px:</span>
+            <img src="brands/marduk-ts/marduk-ts-symbol.svg" style="width:64px;height:64px;" />
+          </div>
+          <div class="meta-section">
+            <div class="color-palette">
+              <span class="color-chip" style="background:#C084FC" title="Primary: #C084FC"></span>
+              <span class="color-chip" style="background:#1E3A5F" title="Secondary: #1E3A5F"></span>
+              <span class="color-chip" style="background:#38BDF8" title="Accent: #38BDF8"></span>
+            </div>
+            <p class="rationale"><strong>Conceito:</strong> Twin intersecting deliberation pyramids representing divergent hypothesis synthesis and convergent decision crystallization.</p>
+            <p class="tech"><strong>Tecnicas:</strong> duality-interlock, geometric-construction</p>
+          </div>
+        </div>
+        
+  </main>
+</body>
+</html>

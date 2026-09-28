@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Feriados Brasil Monochrome</title>
+  <rect x="40" y="48" width="176" height="168" rx="24" fill="#000000"/>
+  <rect x="76" y="32" width="16" height="32" rx="8" fill="#FFFFFF"/>
+  <rect x="164" y="32" width="16" height="32" rx="8" fill="#FFFFFF"/>
+  <path d="M128 104 L184 148 L128 192 L72 148 Z" fill="#FFFFFF"/>
+  <circle cx="128" cy="148" r="10" fill="#000000"/>
+</svg>

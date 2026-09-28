@@ -1,0 +1,24 @@
+{
+  "id": "feriados-brasil",
+  "name": "Feriados Brasil",
+  "repo": "feriados-brasil",
+  "tagline": "National Brazilian Public Holidays & Business Days Engine",
+  "mark_type": "pictorial",
+  "technique": "negative-space, geometric-construction",
+  "geometry": "rhombus, calendar-tile",
+  "industry": "api-data",
+  "colors": {
+    "primary": "#009C3B",
+    "secondary": "#FFDF00",
+    "accent": "#002776",
+    "dark": "#004D1A",
+    "light": "#F0FDF4"
+  },
+  "rationale": "Calendar grid tile with Brazil's canonical central rhombus carved out, carrying the Southern Cross star.",
+  "files": {
+    "symbol": "brands/feriados-brasil/feriados-brasil-symbol.svg",
+    "monochrome": "brands/feriados-brasil/feriados-brasil-monochrome.svg",
+    "lockup": "brands/feriados-brasil/feriados-brasil-lockup.svg"
+  },
+  "audit_passed": true
+}

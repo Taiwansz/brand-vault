@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Andre da Empada Mark</title>
+  <!-- Outer Crust Sunburst Seal -->
+  <circle cx="128" cy="128" r="96" fill="#D97706"/>
+  <!-- Scalloped Crimps (Radial Cut) -->
+  <circle cx="128" cy="128" r="80" fill="#9A3412"/>
+  <!-- Central Golden Dome -->
+  <circle cx="128" cy="128" r="64" fill="#D97706"/>
+  <!-- Chef Balance Scale Geometry -->
+  <path d="M128 88 L128 168" stroke="#FFFBEB" stroke-width="8" stroke-linecap="round"/>
+  <path d="M96 112 L160 112" stroke="#FFFBEB" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="96" cy="132" r="16" fill="#FFFBEB"/>
+  <circle cx="160" cy="132" r="16" fill="#FFFBEB"/>
+</svg>

@@ -1,0 +1,24 @@
+{
+  "id": "thsyr",
+  "name": "ThSyr",
+  "repo": "ThSyr",
+  "tagline": "Cognitive Copilot & Autonomous JARVIS Runtime",
+  "mark_type": "letterform",
+  "technique": "geometric-construction, negative-space, chiral-symmetry",
+  "geometry": "triangle, chevron, diamond",
+  "industry": "artificial-intelligence",
+  "colors": {
+    "primary": "#E63946",
+    "secondary": "#121316",
+    "accent": "#D4AF37",
+    "dark": "#0B0C0E",
+    "light": "#F8F9FA"
+  },
+  "rationale": "Sagittal chevron arrowhead fused with an autonomous neural core. High forward momentum with strict angular discipline at 45 degrees.",
+  "files": {
+    "symbol": "brands/thsyr/thsyr-symbol.svg",
+    "monochrome": "brands/thsyr/thsyr-monochrome.svg",
+    "lockup": "brands/thsyr/thsyr-lockup.svg"
+  },
+  "audit_passed": true
+}

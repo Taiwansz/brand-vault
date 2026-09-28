@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Atlas Enterprise Mark</title>
+  <!-- Outer Deep Field Shield -->
+  <circle cx="128" cy="128" r="96" fill="#0A192F"/>
+  <!-- Primary Orbital Band 1 -->
+  <path d="M56 128 C56 88 128 56 168 56 C200 56 200 96 200 128 C200 168 128 200 88 200 C56 200 56 160 56 128 Z" fill="none" stroke="#2563EB" stroke-width="16"/>
+  <!-- Central Globe -->
+  <circle cx="128" cy="128" r="44" fill="#3B82F6"/>
+  <!-- Orbital Meridian Meridian Cut -->
+  <path d="M128 84 L128 172" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="128" cy="128" r="14" fill="#FFFFFF"/>
+</svg>

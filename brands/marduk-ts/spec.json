@@ -1,0 +1,24 @@
+{
+  "id": "marduk-ts",
+  "name": "Marduk TS",
+  "repo": "shiny-carnival-fork",
+  "tagline": "Deliberative Goal Synthesis & Tiered Cognitive Memory Architecture",
+  "mark_type": "abstract",
+  "technique": "duality-interlock, geometric-construction",
+  "geometry": "double-pyramid, iris",
+  "industry": "cognitive-systems",
+  "colors": {
+    "primary": "#C084FC",
+    "secondary": "#1E3A5F",
+    "accent": "#38BDF8",
+    "dark": "#0F172A",
+    "light": "#FAF5FF"
+  },
+  "rationale": "Twin intersecting deliberation pyramids representing divergent hypothesis synthesis and convergent decision crystallization.",
+  "files": {
+    "symbol": "brands/marduk-ts/marduk-ts-symbol.svg",
+    "monochrome": "brands/marduk-ts/marduk-ts-monochrome.svg",
+    "lockup": "brands/marduk-ts/marduk-ts-lockup.svg"
+  },
+  "audit_passed": true
+}

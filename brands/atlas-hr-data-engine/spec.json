@@ -1,0 +1,24 @@
+{
+  "id": "atlas-hr-data-engine",
+  "name": "Atlas HR Data Engine",
+  "repo": "atlas-hr-data-engine",
+  "tagline": "High-Throughput Distributed HR ETL & Analytics Engine",
+  "mark_type": "abstract",
+  "technique": "dynamic-rotation, modular-system",
+  "geometry": "turbine, circle",
+  "industry": "data-infrastructure",
+  "colors": {
+    "primary": "#14B8A6",
+    "secondary": "#082F49",
+    "accent": "#38BDF8",
+    "dark": "#082F49",
+    "light": "#F0FDFA"
+  },
+  "rationale": "High-velocity data turbine blade channeling distributed employee records into an immutable analytical core.",
+  "files": {
+    "symbol": "brands/atlas-hr-data-engine/atlas-hr-data-engine-symbol.svg",
+    "monochrome": "brands/atlas-hr-data-engine/atlas-hr-data-engine-monochrome.svg",
+    "lockup": "brands/atlas-hr-data-engine/atlas-hr-data-engine-lockup.svg"
+  },
+  "audit_passed": true
+}

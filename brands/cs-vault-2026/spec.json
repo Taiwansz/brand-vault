@@ -1,0 +1,24 @@
+{
+  "id": "cs-vault-2026",
+  "name": "CS-Vault 2026",
+  "repo": "CS-Vault-2026",
+  "tagline": "Obsidian Academic Vault & Deep Computer Science Core",
+  "mark_type": "emblem",
+  "technique": "tessellation, isometric-projection, modular-system",
+  "geometry": "hexagon, cube",
+  "industry": "education-knowledge",
+  "colors": {
+    "primary": "#F59E0B",
+    "secondary": "#1E293B",
+    "accent": "#475569",
+    "dark": "#0F172A",
+    "light": "#FFFBEB"
+  },
+  "rationale": "Isometric crystalline vault cube housed within an algorithmic knowledge hexagon, symbolising atomic synthesis.",
+  "files": {
+    "symbol": "brands/cs-vault-2026/cs-vault-2026-symbol.svg",
+    "monochrome": "brands/cs-vault-2026/cs-vault-2026-monochrome.svg",
+    "lockup": "brands/cs-vault-2026/cs-vault-2026-lockup.svg"
+  },
+  "audit_passed": true
+}

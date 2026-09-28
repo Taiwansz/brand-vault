@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Jornada Excursoes Mark</title>
+  <!-- Outer Compass Ring -->
+  <circle cx="128" cy="128" r="96" fill="#1E3A8A"/>
+  <!-- Unbroken Roadway Loop -->
+  <path d="M68 156 C68 100 128 72 168 100 C196 120 188 168 148 180 C116 188 88 176 88 144 Z" fill="none" stroke="#F97316" stroke-width="16" stroke-linecap="round"/>
+  <!-- Guiding Compass Arrow -->
+  <path d="M128 56 L152 112 L128 98 L104 112 Z" fill="#38BDF8"/>
+  <!-- Waypoint Center -->
+  <circle cx="128" cy="128" r="16" fill="#FFFFFF"/>
+</svg>

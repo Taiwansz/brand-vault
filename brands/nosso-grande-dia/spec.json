@@ -1,0 +1,24 @@
+{
+  "id": "nosso-grande-dia",
+  "name": "Nosso Grande Dia",
+  "repo": "nosso-grande-dia",
+  "tagline": "Matheus & Virginia Matrimonial Ecosystem (Canticos 8:7)",
+  "mark_type": "lettermark",
+  "technique": "continuous-line, geometric-construction",
+  "geometry": "oval, laurel-knot",
+  "industry": "matrimonial-event",
+  "colors": {
+    "primary": "#0C1B33",
+    "secondary": "#6B1724",
+    "accent": "#D4AF37",
+    "dark": "#0C1B33",
+    "light": "#FDFBF7"
+  },
+  "rationale": "Official CCB wedding crest interweaving initials M and V into an unbroken covenant knot with antique gold laurels.",
+  "files": {
+    "symbol": "brands/nosso-grande-dia/nosso-grande-dia-symbol.svg",
+    "monochrome": "brands/nosso-grande-dia/nosso-grande-dia-monochrome.svg",
+    "lockup": "brands/nosso-grande-dia/nosso-grande-dia-lockup.svg"
+  },
+  "audit_passed": true
+}

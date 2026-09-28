@@ -1,0 +1,24 @@
+{
+  "id": "receitas-andre-empada",
+  "name": "Receitas Andre da Empada",
+  "repo": "receitas",
+  "tagline": "Culinary Technical Formulation & Baking Cost Engineering",
+  "mark_type": "emblem",
+  "technique": "dynamic-rotation, modular-system, geometric-construction",
+  "geometry": "circle, radial-crimp",
+  "industry": "food-gastronomy",
+  "colors": {
+    "primary": "#D97706",
+    "secondary": "#9A3412",
+    "accent": "#FFFBEB",
+    "dark": "#78350F",
+    "light": "#FFFBEB"
+  },
+  "rationale": "Radial crimped golden crust seal honoring artisanal empada baking with engineering cost precision.",
+  "files": {
+    "symbol": "brands/receitas-andre-empada/receitas-andre-empada-symbol.svg",
+    "monochrome": "brands/receitas-andre-empada/receitas-andre-empada-monochrome.svg",
+    "lockup": "brands/receitas-andre-empada/receitas-andre-empada-lockup.svg"
+  },
+  "audit_passed": true
+}

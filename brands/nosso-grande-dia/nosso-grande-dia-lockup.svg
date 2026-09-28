@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 128" width="512" height="128">
+  <title>Nosso Grande Dia Lockup</title>
+  <g transform="translate(12, 8) scale(0.4375)">
+    <title>Nosso Grande Dia Wedding Crest</title>
+  <!-- Outer Sacred Seal -->
+  <path d="M128 28 C180 28 220 72 220 128 C220 184 180 228 128 228 C76 228 36 184 36 128 C36 72 76 28 128 28 Z" fill="#0C1B33"/>
+  <!-- Gold Filament Border -->
+  <circle cx="128" cy="128" r="88" fill="none" stroke="#D4AF37" stroke-width="4"/>
+  <!-- Intertwined M and V Monogram -->
+  <path d="M76 168 L76 96 L108 144 L128 112 L148 144 L180 96 L180 168" fill="none" stroke="#FDFBF7" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Central Covenant Heart Knot -->
+  <path d="M128 112 L128 184" fill="none" stroke="#6B1724" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="128" cy="188" r="8" fill="#D4AF37"/>
+  </g>
+  <!-- Vectorized Name Bar Representation -->
+  <g transform="translate(148, 52)">
+    <rect x="0" y="0" width="180" height="24" rx="4" fill="#0C1B33"/>
+    <rect x="0" y="32" width="96" height="6" rx="2" fill="#0C1B33"/>
+  </g>
+</svg>

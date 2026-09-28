@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 128" width="512" height="128">
+  <title>ThSyr Lockup</title>
+  <g transform="translate(12, 8) scale(0.4375)">
+    <title>ThSyr Core Symbol</title>
+  <!-- Background Shield Cut -->
+  <path d="M128 24 L224 80 L224 164 L128 232 L32 164 L32 80 Z" fill="#121316"/>
+  <!-- Primary Sagittal Arrowhead -->
+  <path d="M128 48 L204 98 L180 122 L128 88 L76 122 L52 98 Z" fill="#E63946"/>
+  <!-- Interlocking Chevron -->
+  <path d="M128 108 L184 150 L164 170 L128 144 L92 170 L72 150 Z" fill="#D4AF37"/>
+  <!-- Synthetic Nucleus Diamond -->
+  <path d="M128 162 L148 182 L128 202 L108 182 Z" fill="#FFFFFF"/>
+  </g>
+  <!-- Vectorized Name Bar Representation -->
+  <g transform="translate(148, 52)">
+    <rect x="0" y="0" width="180" height="24" rx="4" fill="#0B0C0E"/>
+    <rect x="0" y="32" width="96" height="6" rx="2" fill="#E63946"/>
+  </g>
+</svg>

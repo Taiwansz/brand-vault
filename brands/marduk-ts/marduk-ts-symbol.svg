@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <title>Marduk TS Deliberation Mark</title>
+  <!-- Background Deep Slate Core -->
+  <path d="M128 32 L224 128 L128 224 L32 128 Z" fill="#0F172A"/>
+  <!-- Divergent Ascending Pyramid (Violet) -->
+  <path d="M128 48 L204 128 L52 128 Z" fill="#C084FC"/>
+  <!-- Convergent Descending Pyramid (Lapis Azure) -->
+  <path d="M52 128 L204 128 L128 208 Z" fill="#1E3A5F"/>
+  <!-- Core Cognitive Iris Diamond -->
+  <path d="M128 104 L152 128 L128 152 L104 128 Z" fill="#38BDF8"/>
+  <circle cx="128" cy="128" r="8" fill="#FFFFFF"/>
+</svg>
